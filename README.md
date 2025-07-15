@@ -1,2 +1,2 @@
 # Frontend-Basic-Projects
-Basic frontend projects for practise
+Basic frontend projects for practice.
